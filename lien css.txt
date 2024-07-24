@@ -1,0 +1,11 @@
+
+ <link rel="stylesheet" href="./dossier-css/style.css">
+    <link rel="stylesheet" href="global.css">
+    <link rel="stylesheet" href="navigation.css">
+    <link rel="stylesheet" href="search.css">
+    <link rel="stylesheet" href="filters.css">
+    <link rel="stylesheet" href="info.css">
+    <link rel="stylesheet" href="accommodations.css">
+    <link rel="stylesheet" href="activity.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="responsive.css">

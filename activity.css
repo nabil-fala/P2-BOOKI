@@ -1,0 +1,58 @@
+.activity-section{
+  margin-left: 30px;
+}
+
+.activity-section h2{
+  margin: 40px 0 30px 0;   
+}
+
+.activity-section .bloc-card{
+  display: flex;
+  height: 600px;
+  gap: 2%;
+}
+
+.activity-section .card-column .border-activity {
+  margin-bottom: 50px;
+} 
+
+.activity-section img{
+  object-fit: cover;
+  width: 285px;
+  border-radius: 15px 15px 0 0;
+  max-width: 100%;
+}
+
+.picture-activity1{
+  height: 400px;
+}
+
+.picture-activity2{
+  height: 400px;
+}
+
+.picture-activity3{
+  height: 400px;
+}
+
+.picture-activity4{
+  height: 400px;
+}
+
+.border-activity{
+  border-radius: 15px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.062);
+  max-height: 535px;
+  transition: 0.8s;
+  padding-bottom: 20px;
+} 
+
+.border-activity:hover{
+  transform: scale(1.03);
+}
+
+.activity-section .text-activity{
+  font-weight: 600;
+  margin-left: 20px;
+  margin-top: 10px;
+}

@@ -1,0 +1,32 @@
+  .info-section{
+    margin-left: 5px;
+  }
+  .info{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .info-section h2{
+    margin-left: 10px;
+    font-size: 106%;
+    font-weight: 300;
+    color: rgb(59, 59, 59);
+  }
+  
+  .info-section .circle-info{
+    border: #F2F2F2 solid 2px;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    color: #0065fc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+  }
+  
+  .info-section i{
+    font-size: 81%;
+    
+  }
